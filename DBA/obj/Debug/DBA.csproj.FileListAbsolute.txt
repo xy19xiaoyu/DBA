@@ -1,1 +1,4 @@
-D:\code\DBA\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+D:\code\DBA\DBA\bin\Debug\DBA.dll
+D:\code\DBA\DBA\bin\Debug\DBA.pdb
+D:\code\DBA\DBA\obj\Debug\DBA.dll
+D:\code\DBA\DBA\obj\Debug\DBA.pdb
